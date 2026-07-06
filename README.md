@@ -1,5 +1,3 @@
-![Akshay Bhardwaj — agent lattice](./header.svg)
-
 ### Akshay Bhardwaj
 
 **I build the scaffolding that makes AI agents reliable enough to actually ship — and I lead the org that ships it.**
