@@ -20,3 +20,5 @@ I followed depth into the field — petroleum engineer → taught myself into AI
 **Stack** — Python · LangGraph · Ray · PyTorch · Dagster · MLflow · Claude / Gemini / GPT · FastAPI · TimescaleDB · Apache Iceberg · Docker · AWS
 
 **Find me** — [Portfolio](https://portfolio.akshayworks.com) · [Blog](https://blog.akshayworks.com) · [LinkedIn](https://linkedin.com/in/akshayb7)
+
+<!-- profile readme -->
